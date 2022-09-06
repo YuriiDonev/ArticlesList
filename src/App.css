@@ -1,0 +1,20 @@
+.articles {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.articles__item {
+  margin-bottom: 10px;
+}
+
+.articles__item-title {
+  margin-right: 10px;
+}
+
+.articles__item-img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+}
